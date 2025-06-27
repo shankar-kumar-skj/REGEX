@@ -161,7 +161,6 @@ elif(user_choice==3):
   if phone.isdigit() and len(phone) == 10:
       PHONE_NO = f"+91{phone}"
       MESSAGE = input("ENTER THE WHATSAPP MESSAGE: ")
-      
       try:
           pyw.sendwhatmsg_instantly(PHONE_NO, MESSAGE, wait_time=15, tab_close=True)
           print("Message sent successfully!")
