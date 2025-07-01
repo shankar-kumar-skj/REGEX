@@ -5,7 +5,7 @@ search=input("ENTER THE CONTENT YOU WANT TO ANALYSIS : ")
 # === Configuration ===
 API_KEY = 'AIzaSyBIKFD89DC0aum_8cJP0aeU18V46oxQGE0'  # Replace with your actual API key
 SEARCH_QUERY = search
-MAX_RESULTS = 100000000  # Increase if needed
+MAX_RESULTS = 100  # Increase if needed
 
 # === Step 1: YouTube search API call ===
 search_url = 'https://www.googleapis.com/youtube/v3/search'
