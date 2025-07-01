@@ -65,7 +65,7 @@ grouped = df.groupby('Channel').agg(
 ).reset_index()
 
 # === Output Results ===
-print("📊 Channel-wise Like Statistics:")
+print("Channel-wise Like Statistics:")
 print(grouped)
 
 # Optional: Save to CSV
