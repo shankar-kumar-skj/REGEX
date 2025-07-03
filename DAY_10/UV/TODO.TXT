@@ -1,0 +1,9 @@
+uv init Regex -> initialize a new project with Regex
+uv venv -> create environment
+cd Regex -> change directory to Regex
+uv venv -> create a virtual environment in the .venv directory
+.venv\Scripts\activate -> activate environment
+uv pip install numpy -> install numpy
+uv pip install -r requirement.txt
+uv run python main.py -> run the main script
+uv run python -m uv.run.main -> run the main script with uv
