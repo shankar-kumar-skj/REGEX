@@ -106,24 +106,33 @@
 
 # Now I will ask  'can you create a three tier application architecture diagram with ECS , RDS , VPC and security features in place . 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # If you want to install it into vs code then go to vs code and ---> Extension(amazon q) ---> Install and Restart Extension  --->> Now we will see ... in left mid side click on it and sleect Amazon Q. 
 
 
 
-Making_Architecture_diagram_via_mcp.py
-Displaying Making_Architecture_diagram_via_mcp.py.
+# Making_Architecture_diagram_via_mcp.py
+# Displaying Making_Architecture_diagram_via_mcp.py.
+
+
+
+# {
+#   "mcpServers": {
+#     "mcp-3d-cartoon-generator": {
+#       "command": "node",
+#       "args": [
+#         "path/to/your/build/index.js"
+#       ],
+#       "env": {
+#         "GEMINI_API_KEY": "your_gemini_api_key_here",
+#         "IS_REMOTE": "true",
+#         "SAVE_TO_DESKTOP": "true",
+#         "DETECT_OS_PATHS": "true",
+#         "ALLOWED_DIRECTORIES": "C:\\Users\\YourUsername\\Desktop,C:\\Users\\YourUsername\\Documents",
+#         "DEBUG": "false"
+#       }
+#     }
+#   }
+# }
+
+# Gemini API
+# AIzaSyD8sbd4A9l4irn01nifG-YULEiVQXOuUrQ
