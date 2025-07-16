@@ -5,7 +5,7 @@
 
 # sudo usermod -aG docker $USER && newgrp docker 
 
-# git clone
+# git clone https://github.com/shankar-kumar-skj/CyberBot
 # vim .env
 # GOOGLE_API_KEY=AIzaSyD8sbd4A9l4irn01nifG-YULEiVQXOuUrQ
 
