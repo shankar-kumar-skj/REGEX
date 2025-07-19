@@ -1,8 +1,8 @@
-# travily api key
-# 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
+
+
 
 from tavily import TavilyClient
-tavily_client = TavilyClient(api_key="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")
+tavily_client = TavilyClient(api_key="travily api key")
 response = tavily_client.search("Who is Leo Messi?")
 # print(response)
 for result in response['results']:
